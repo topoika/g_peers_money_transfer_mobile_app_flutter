@@ -1,5 +1,8 @@
 # gpeers
 
+G-Peers is a money transfer mobile cross-platform application that
+help to make easy the money transfer process between african countries.
+
 A new Flutter project.
 
 ## Getting Started
