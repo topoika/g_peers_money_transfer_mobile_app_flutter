@@ -1,19 +1,18 @@
 # gpeers
 
-G-Peers is a money transfer mobile cross-platform application that
+G-Peers is a money exchange mobile cross-platform application that
 help to make easy the money transfer process between african countries.
 
-A new Flutter project.
 
-## Getting Started
+Here is the overview the app, this is the homapahe of the application,
+<br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/topoika/g_peers_money_transfer_mobile_app_flutter/blob/main/assets/images/Overview.png">
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The sell and the buy trasaction and processe are shown bellow,
+<br>
+<img src="https://github.com/topoika/g_peers_money_transfer_mobile_app_flutter/blob/main/assets/images/Buy.png">
+<img src="https://github.com/topoika/g_peers_money_transfer_mobile_app_flutter/blob/main/assets/images/Sell.png">
